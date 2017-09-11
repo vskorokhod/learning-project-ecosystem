@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Island>
+	<Size>10</Size>
+	<SafeZone>0 0 0 0</SafeZone>
+	<Animal row=3 column=7>Wolf</Animal>
+	<Animal row=9 column=3>She-Wolf</Animal>
+	<Animal row=7 column=6>Rabbit</Animal>
+	<Animal row=1 column=5>Wolf</Animal>
+	<Animal row=10 column=2>Rabbit</Animal>
+	<Animal row=8 column=9>Rabbit</Animal>
+	<Animal row=7 column=5>She-Wolf</Animal>
+	<Animal row=1 column=9>Rabbit</Animal>
+	<Animal row=6 column=2>She-Wolf</Animal>
+	<Animal row=4 column=4>Rabbit</Animal>
+</Island>	
