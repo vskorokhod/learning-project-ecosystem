@@ -1,2 +1,2 @@
 # learning-project-ecosystem
-Учебный проект, постановка задачи - в файле экосистема.pptx
+Learning project, problem explanation is in ecosystem.pptx file
